@@ -11,7 +11,7 @@ namespace Home6WpfApp
     {
         private string wind_direction;
         private int wind_speed;
-        private enum precipitation
+        private enum Precipitation
         {
             sunny,
             cloudy,
